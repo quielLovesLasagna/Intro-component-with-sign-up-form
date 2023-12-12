@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/quielLovesLasagna/Intro-component-with-sign-up-form](https://github.com/quielLovesLasagna/Intro-component-with-sign-up-form)
+- Live Site URL: [https://quiel-sign-up-form.netlify.app/](https://quiel-sign-up-form.netlify.app/)
 
 ## My process
 
